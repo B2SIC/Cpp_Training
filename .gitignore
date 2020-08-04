@@ -1,3 +1,7 @@
 # Executables
 *.out
 *.app
+*.exe
+
+# Visual Code
+.vscode
